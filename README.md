@@ -41,12 +41,17 @@ Process
 Check the data for errors
 
 "dailyActivity_merged.csv"
+
 "weightLogInfo_merged.csv"
+
 "sleepDay_merged.csv"
-Are the 3 files being imported from the original 18 csv files due to their comprehensive nature. 
+
+Are the 3 files being imported.
 
 SELECT DISTINCT * 
+
 FROM sleepDay_merged, 
+
 removed 3 duplicate rows of data from the sleep log information
 
 

@@ -5,7 +5,7 @@ For this case study I am following the 6 steps of the data analysis process: Ask
 
 Background: Bellabeat is a tech-driven female wellness company that specializes in the manufacturing of health focused smart products including Bellabeat app, leaf, spring, and the bellabeat subscription membership. Since its founding in 2013 the company has steadily grown into a world wide entity in the fitness tracking industry for women, but they have the potential to become an even larger player in the global market. Bellabeat has invested the majority of their resources into digital marketing, including Google and social media. 
 
-Ask
+🙋Ask
 
 Business Task
 Urška Sršen, co-founder and Chief Creative Officer of Bellabeat, believes that analyzing smart device fitness data could help unlock new growth opportunities for the company. I have been asked to focus on one of Bellabeat’s products and analyze smart device data to gain insight into how consumers are using their smart devices. I’ve chosen to focus on the Bellabeat app because it is the foundation of the company, and is the common thread woven throughout their products. 

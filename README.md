@@ -8,6 +8,7 @@ Background: Bellabeat is a tech-driven female wellness company that specializes 
 🙋Ask
 
 Business Task
+
 Urška Sršen, co-founder and Chief Creative Officer of Bellabeat, believes that analyzing smart device fitness data could help unlock new growth opportunities for the company. I have been asked to focus on one of Bellabeat’s products and analyze smart device data to gain insight into how consumers are using their smart devices. I’ve chosen to focus on the Bellabeat app because it is the foundation of the company, and is the common thread woven throughout their products. 
 
 Stakeholders:

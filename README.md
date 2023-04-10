@@ -1,3 +1,5 @@
+![download](https://user-images.githubusercontent.com/125325076/230917985-81e5bd8f-8b06-41f9-9a5a-f9295a125cdb.jpg)
+
 Case Study: How Can a Wellness Technology Company Play It Smart?
 
 For this case study I am following the 6 steps of the data analysis process: Ask, Prepare, Process, Analyze, Share and Act.

@@ -7,7 +7,7 @@ For this case study I am following the 6 steps of the data analysis process: Ask
 
 Background: Bellabeat is a tech-driven female wellness company that specializes in the manufacturing of health focused smart products including Bellabeat app, leaf, spring, and the bellabeat subscription membership. Since its founding in 2013 the company has steadily grown into a world wide entity in the fitness tracking industry for women, but they have the potential to become an even larger player in the global market. Bellabeat has invested the majority of their resources into digital marketing, including Google and social media. 
 
-🙋Ask
+Ask
 
 Business Task
 
@@ -41,21 +41,3 @@ Cited: Although the data is cited it is collected from unknown sources which may
 
 Process 
 
-Check the data for errors
-
-"dailyActivity_merged.csv"
-
-"weightLogInfo_merged.csv"
-
-"sleepDay_merged.csv"
-
-Are the 3 files being imported.
-
-SELECT DISTINCT * 
-
-FROM sleepDay_merged, 
-
-removed 3 duplicate rows of data from the sleep log information
-
-
-Choose your tools: Google Sheets, Microsoft SQL Server Management Studio

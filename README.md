@@ -40,3 +40,27 @@ Current: The data is from April 2016 to May 2016. Although the data is 7 years o
 Cited: Although the data is cited it is collected from unknown sources which may be unreliable.
 
 ***3. Process*** :muscle:
+
+![download](https://user-images.githubusercontent.com/125325076/231813661-39dac2a6-8c9c-4045-b75a-9ddbd0aba27f.png)
+
+
+
+
+
+
+![download](https://user-images.githubusercontent.com/125325076/231813738-74aba1ab-ff11-41c0-811c-636092fb9c74.png)
+
+
+
+
+![download](https://user-images.githubusercontent.com/125325076/231813862-88661173-0393-4552-b756-f5f709b73f60.png)
+
+
+
+![download](https://user-images.githubusercontent.com/125325076/231813899-213c98ff-db4a-4e80-a6f9-4b93a69c1bdc.png)
+
+
+
+
+![download](https://user-images.githubusercontent.com/125325076/231813937-ad9e1089-a217-4579-b26c-e429bcfb4ad4.png)
+

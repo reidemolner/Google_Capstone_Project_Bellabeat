@@ -40,8 +40,3 @@ Current: The data is from April 2016 to May 2016. Although the data is 7 years o
 Cited: Although the data is cited it is collected from unknown sources which may be unreliable.
 
 ***3. Process*** :muscle:
-
-git add[C:\Users\reide\Downloads\bella_beat.py]
-git commit -m 'C:\Users\reide\Downloads\bella_beat.py'
-git push
-
